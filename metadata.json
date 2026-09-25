@@ -1,0 +1,8 @@
+{
+  "name": "TECHVIRITI — IFSA",
+  "description": "Full cinematic 3D technology festival experience for IFSA. Explore futuristic floating cities, workshops, competitions, and keynote events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
